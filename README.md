@@ -8,13 +8,13 @@ Draw a 3D Rectangular cuboid in OpenGl
   ### interactive
   - **interactive:**
   -  **Mouse:**
-    - - Right button of the mouse (change the background color)
-    - - Left button of the mouse(change the color of the Rectangular cuboid)
+      - Right button of the mouse (change the background color)
+      - Left button of the mouse(change the color of the Rectangular cuboid)
    -  **Keyboard :**
-     - - Press the letter " R " on your keyboard to move the object to the right
-     - - Press the letter " L " on your keyboard to move the object to the left
-     - - Press " - " to zoom out
-     - - Press " + " to zoom in
+      - Press the letter " R " on your keyboard to move the object to the right
+       - Press the letter " L " on your keyboard to move the object to the left
+       - Press " - " to zoom out
+       - Press " + " to zoom in
 
 
 
